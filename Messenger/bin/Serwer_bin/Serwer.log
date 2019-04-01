@@ -1,0 +1,14 @@
+﻿  Serwer.cpp
+  checking.cpp
+checking.cpp(45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+checking.cpp(47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+checking.cpp(49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+checking.cpp(51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+checking.cpp(53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  5 of 593 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Serwer.vcxproj -> C:\Users\damian\Source\Repos\d5b347fc-gr21-repo\Projekt\Serwer\x64\Release\Serwer.exe
+  Serwer.vcxproj -> C:\Users\damian\Source\Repos\d5b347fc-gr21-repo\Projekt\Serwer\x64\Release\Serwer.pdb (Full PDB)
